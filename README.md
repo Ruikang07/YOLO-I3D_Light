@@ -1,7 +1,7 @@
 
 # YOLO-I3D_Light
 
-YOLO-I3D Light is a hybrid 2D/3D structure. The YOLOv5 Bottom is used to extract the spatial features and the I3D Top is used to extract spatial-temporal features and classify the action type by using spatial-temporal features. <br>
+YOLO-I3D Light is a simplified two-stream I3D with a standard I3D RGB branch (I3D224) and a YOLO-I3D112 branch. YOLO-I3D112 is a hybrid 2D/3D structure. The YOLOv5 Bottom is used to extract the spatial features and the I3D Top is used to extract spatial-temporal features and classify the action type by using spatial-temporal features. <br>
 <br>
 This code is based on Ultralytics's [YOLOv5](https://github.com/ultralytics/yolov5) and Miracleyoo's [Trainable-i3d-pytorch](https://github.com/miracleyoo/Trainable-i3d-pytorch)
 <br><br>
