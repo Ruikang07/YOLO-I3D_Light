@@ -6,11 +6,11 @@ YOLO-I3D Light is a hybrid 2D/3D structure. The YOLOv5 Bottom is used to extract
 This code is based on Ultralytics's [YOLOv5](https://github.com/ultralytics/yolov5) and Miracleyoo's [Trainable-i3d-pytorch](https://github.com/miracleyoo/Trainable-i3d-pytorch)
 <br><br>
 <img src="Two-stream YOLO-I3D Light.png">
-&nbsp;              &nbsp;Figure 1: Two-stream YOLO-I3D_Light.
+&nbsp;            &nbsp;Figure 1: Two-stream YOLO-I3D_Light.
 
 <br><br>
 <img src="YOLO-I3D112.png">
-&nbsp;              &nbsp;Figure 1: YOLO-I3D112.
+&nbsp;                &nbsp;Figure 2: YOLO-I3D112.
 
 <br><br>
 
